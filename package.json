@@ -1,0 +1,14 @@
+{
+  "name": "react-qr-image-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Rapo <andrew@wwlib.org> (http://wwlib.github.io)",
+  "license": "MIT",
+  "dependencies": {
+    "qr-image": "^3.1.0"
+  }
+}
